@@ -28,7 +28,6 @@ public class Main {
     }
 
 
-
     private static double getDollae(Scanner scanner) {
         double dollar = -1;
         while (dollar < 0 || dollar == 0) {
