@@ -1,6 +1,5 @@
 package basic.Operators;
 
-import java.sql.SQLOutput;
 import java.util.Scanner;
 
 public class Main {
@@ -29,7 +28,6 @@ public class Main {
                 scanner.next(); // Игнорируем некорректный ввод
             }
         }
-
     }
 
     public static void avg(int x, int y, int z) {
