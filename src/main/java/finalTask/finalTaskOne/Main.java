@@ -1,4 +1,4 @@
-package finalTaskOne;
+package finalTask.finalTaskOne;
 
 import java.math.BigDecimal;
 import java.math.RoundingMode;
