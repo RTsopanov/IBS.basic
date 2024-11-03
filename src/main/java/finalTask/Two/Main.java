@@ -1,6 +1,6 @@
-package finalTaskTwo;
+package finalTask.Two;
 
-import javax.swing.plaf.metal.MetalIconFactory;
+
 import java.util.Scanner;
 
 public class Main {
